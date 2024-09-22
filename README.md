@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leslieriola
 - 👀 I’m interested in painting, writing books, listening to music, trading in simulation of forex trading.
-- 🌱 I’m currently learning web development and digital marketing.
+- 🌱 I’m currently learning web development, UI/UX and digital marketing.
 - 💞️ I’m looking to collaborate on full stack web development.
 - 📫 How to reach me: 09554894255 or leslieriola@gmai.com
 
